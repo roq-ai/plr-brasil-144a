@@ -1,0 +1,492 @@
+[
+  {
+    "campaign": [
+      {
+        "id": "a4b10dd1-a5ef-4049-a36b-dfff43a2806e",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T12:58:14.000Z",
+        "updated_at": "2023-08-05T06:54:34.844Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b0b62ffa-5bd3-4843-a8d7-f854b462e00d",
+        "name": "Tech Expo 2022",
+        "type": "Technology",
+        "created_at": "2023-08-05T13:52:53.291Z",
+        "updated_at": "2023-08-05T10:06:09.280Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9404b12f-7960-4ff4-bc50-9b045ae7afce",
+        "name": "Business Transformation Summit",
+        "type": "Business",
+        "created_at": "2023-08-05T02:55:19.617Z",
+        "updated_at": "2023-08-05T17:33:29.187Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0cee6978-da9d-4b43-bf85-bf6dbd42ff67",
+        "name": "Healthy Living Campaign",
+        "type": "Health",
+        "created_at": "2023-08-05T22:13:46.649Z",
+        "updated_at": "2023-08-05T03:57:06.660Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8c9aef1-9742-4ff7-8762-376ae230dd20",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T01:08:49.219Z",
+        "updated_at": "2023-08-05T20:33:40.659Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "0ab54d81-2379-4964-a410-074ed4378afb",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T21:50:24.071Z",
+        "updated_at": "2023-08-05T00:52:57.080Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f84302d6-2e20-4ea3-83e1-d377efbb1c2c",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-05T22:47:06.583Z",
+        "updated_at": "2023-08-05T23:38:55.788Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e5c3d0c-edfe-4431-a9e8-319c6bfc42a3",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-05T18:02:21.051Z",
+        "updated_at": "2023-08-05T15:06:10.294Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e48a3bda-325d-43b4-8f2c-366933bc0ab1",
+        "name": "Healthy Living Awareness",
+        "type": "Health",
+        "created_at": "2023-08-05T05:31:48.384Z",
+        "updated_at": "2023-08-05T04:09:43.087Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c113bfe6-e1aa-41bb-a751-4fcbd23154e9",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T09:18:07.265Z",
+        "updated_at": "2023-08-05T05:53:29.486Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "93c21385-451c-4ea2-ac34-9fe5e6ea4238",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T03:28:01.360Z",
+        "updated_at": "2023-08-05T23:39:20.908Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f30f1621-0519-454e-8206-303cbad507fc",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-04T23:59:36.677Z",
+        "updated_at": "2023-08-05T20:47:38.255Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2370b662-3a4d-4213-a92e-24c526a9aa63",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-05T03:44:00.474Z",
+        "updated_at": "2023-08-05T00:01:27.312Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97fa8044-7827-4a02-b291-9155ffad9ce8",
+        "name": "Healthy Living Awareness",
+        "type": "Health",
+        "created_at": "2023-08-05T05:42:21.239Z",
+        "updated_at": "2023-08-05T10:57:43.487Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6600a3a-0e60-4df6-8745-975ca54c599c",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T16:56:41.943Z",
+        "updated_at": "2023-08-05T19:33:49.565Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "17940f4f-f1e6-4d82-aebb-7d5ba8264c57",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T19:18:21.892Z",
+        "updated_at": "2023-08-05T05:11:05.821Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4adbd45f-7b48-4848-9130-9ccd69f61a7d",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-05T15:02:19.517Z",
+        "updated_at": "2023-08-05T01:15:19.248Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13510865-2cd4-49ba-bdd9-6d41668ee2c9",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-05T00:43:38.559Z",
+        "updated_at": "2023-08-05T05:08:30.746Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "676eedf6-e385-4f59-846c-b24b356092b3",
+        "name": "Healthy Living Awareness",
+        "type": "Health",
+        "created_at": "2023-08-05T19:49:28.046Z",
+        "updated_at": "2023-08-05T05:57:17.048Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4ebc986d-dd7e-42b1-8727-2f5d03783d9e",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T14:12:13.258Z",
+        "updated_at": "2023-08-05T00:33:15.389Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "4310a2b6-7ffe-479d-bfa4-2616b905af43",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T02:51:15.635Z",
+        "updated_at": "2023-08-05T01:23:11.963Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "153959b2-bc06-4f2f-9838-9b202ff60f4e",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-05T05:35:43.562Z",
+        "updated_at": "2023-08-05T03:27:02.380Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e66b951-0b27-40e9-922b-852ee151bd24",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-05T00:05:15.963Z",
+        "updated_at": "2023-08-05T06:53:40.297Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "468474af-bc1a-4304-8e11-987b5441bd33",
+        "name": "Healthy Living Awareness",
+        "type": "Health",
+        "created_at": "2023-08-05T06:52:13.201Z",
+        "updated_at": "2023-08-05T23:14:22.818Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "974e4b96-2a12-4f98-8b67-f04bc95c6b86",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T02:24:23.180Z",
+        "updated_at": "2023-08-05T04:38:38.874Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "4b4f65ea-8f85-49d7-afbf-b5c1098db878",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T12:05:39.203Z",
+        "updated_at": "2023-08-05T23:17:18.291Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "608e316e-32f5-488c-beef-790336654289",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-05T03:57:08.589Z",
+        "updated_at": "2023-08-05T14:20:53.658Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4db3320-39aa-4bed-a81d-43d601d723e4",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-05T10:57:14.905Z",
+        "updated_at": "2023-08-05T04:50:50.391Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a5dfa85-601d-49cf-9117-516af10b6ceb",
+        "name": "Healthy Living Initiative",
+        "type": "Health",
+        "created_at": "2023-08-05T21:46:58.354Z",
+        "updated_at": "2023-08-05T02:07:09.244Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc366798-74b6-414b-91be-ef782c22721b",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T19:25:53.170Z",
+        "updated_at": "2023-08-05T12:18:46.828Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "402f5192-d05a-4e93-b2d6-cd0faf3c276b",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T10:25:18.259Z",
+        "updated_at": "2023-08-05T10:20:54.581Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61b2f5d4-ebec-435d-ac1f-a2c2280dd3b8",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-05T07:04:24.184Z",
+        "updated_at": "2023-08-05T01:22:39.864Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f193395-4e2f-4b3e-baad-44d0b20410ab",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-05T17:45:52.706Z",
+        "updated_at": "2023-08-05T03:04:26.568Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f00d7055-c5c7-435f-b84e-630043f974cd",
+        "name": "Healthy Living Awareness",
+        "type": "Health",
+        "created_at": "2023-08-05T09:42:02.923Z",
+        "updated_at": "2023-08-05T08:48:22.820Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "64126d03-30f6-4333-9cf0-455f878abe5e",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T20:29:40.806Z",
+        "updated_at": "2023-08-05T00:54:50.458Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "eba1610e-8703-4e73-9fdf-4cc9fe7bcbb2",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T22:03:52.828Z",
+        "updated_at": "2023-08-05T02:05:34.890Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "645a1af9-c776-4ff7-b723-9b2c7fe54327",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-05T17:54:54.164Z",
+        "updated_at": "2023-08-05T22:02:58.896Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc8167e4-ab89-4afb-905b-3d75b3d9efad",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-05T18:54:44.054Z",
+        "updated_at": "2023-08-05T18:29:37.102Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38694166-3940-402a-9a30-1672ee51f55c",
+        "name": "Healthy Living Awareness",
+        "type": "Health",
+        "created_at": "2023-08-05T04:56:03.148Z",
+        "updated_at": "2023-08-05T06:37:15.823Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85b4465a-37ac-4258-914e-dd3598574f25",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T00:29:59.617Z",
+        "updated_at": "2023-08-05T22:49:51.289Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "2ff00bf6-e825-4ddb-9c0c-4026fc4705fb",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T16:52:16.038Z",
+        "updated_at": "2023-08-05T11:02:44.069Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "55fcc5a1-ef0d-467e-946e-1cf21b41094c",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-05T16:58:23.778Z",
+        "updated_at": "2023-08-05T17:49:35.722Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dfcee8b2-ae5d-4792-9487-61f253a58f84",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-05T03:24:47.296Z",
+        "updated_at": "2023-08-05T16:26:15.255Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6a36761-a8e4-40ee-865f-25c5b0fea7b8",
+        "name": "Healthy Living Awareness",
+        "type": "Health",
+        "created_at": "2023-08-05T16:24:22.419Z",
+        "updated_at": "2023-08-05T15:32:29.033Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b2a6ea1-820a-4f4f-b695-2ee6f1582078",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T11:32:29.966Z",
+        "updated_at": "2023-08-05T11:59:50.801Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "campaign": [
+      {
+        "id": "439c1a69-67b5-4077-9efe-aee959b7ef33",
+        "name": "Summer Charity Drive",
+        "type": "Charity",
+        "created_at": "2023-08-05T19:48:35.721Z",
+        "updated_at": "2023-08-05T15:43:35.657Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25d604fd-b809-488c-af89-e26763aaaedb",
+        "name": "Tech Conference 2022",
+        "type": "Conference",
+        "created_at": "2023-08-05T14:43:17.887Z",
+        "updated_at": "2023-08-05T20:07:11.864Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c6aaca6-ff82-4c24-bf3e-10f5f1d97c7c",
+        "name": "Business Transformation Campaign",
+        "type": "Marketing",
+        "created_at": "2023-08-04T23:45:48.718Z",
+        "updated_at": "2023-08-05T16:58:20.486Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d5a94228-b0f2-418e-b05e-92507f402b9d",
+        "name": "Healthy Living Awareness",
+        "type": "Health",
+        "created_at": "2023-08-05T13:38:48.412Z",
+        "updated_at": "2023-08-05T16:53:19.502Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "394937d4-3cef-4cbb-88cd-d305636e4679",
+        "name": "Fashion Revolution Week",
+        "type": "Fashion",
+        "created_at": "2023-08-05T11:39:01.727Z",
+        "updated_at": "2023-08-05T17:07:34.978Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  }
+]
